@@ -17,4 +17,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codeclassifiers)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Total visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitor Count](https://profile-counter.glitch.me/codeclassifiers/count.svg)
