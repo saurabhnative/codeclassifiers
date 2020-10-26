@@ -10,6 +10,8 @@
 🖥 Github: https://github.com/smhatre59  
 🎬 Youtube: https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g  
 📃 Website: https://coderwhodreams.com   
+📝 Medium: https://medium.com/@smhatre59  
+
 
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codeclassifiers)](https://github.com/anuraghazra/github-readme-stats)
