@@ -33,6 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [MERN Stack Interview Questions - Part 1](https://www.youtube.com/watch?v=Y6AoDw93bXk)
 - [Learn about content editable CSS attribute by making a basic text editor](https://www.youtube.com/watch?v=qGYQdOSmiQk)
 - [Demo of quiz made using typescript and styled components in react from freecodecamp tutorial #shorts](https://www.youtube.com/watch?v=esylHmoyKcI)
@@ -57,4 +58,4 @@
 
 ### Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codeclassifiers)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeclassifiers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
