@@ -6,19 +6,21 @@
 - I have experience in technologies like React, Node.js and ReactNative. I have been teaching this technologies online to students since last few years.
 - I initially created this account for adding repositories related to blog articles and at present I use this account for updating learning resources for online lectures. You can join official slack workspace for learning frontend development or for asking technical doubts here: [OpenFrontendAcademy](https://join.slack.com/t/openfrontendacademy/shared_invite/zt-k33mgirb-QVZlozwNl7WH~~zHfKeGSQ)
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/5_vdg8xg.png" />][twitter]  https://twitter.com/saurabhnative  
 
 [<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044080/social-icons/6_elpkjr.png" />][linkedIn] https://www.linkedin.com/in/saurabh-mhatre  
 
-<img align="left" alt="github | Github" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/2_rxsecc.png" />  https://github.com/smhatre59  
+[<img align="left" alt="github | Github" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/2_rxsecc.png" />][github] https://github.com/smhatre59  
 
-<img align="left" alt="youtube | Youtube" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/3_gzaiwk.png" />  https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g  
+[<img align="left" alt="youtube | Youtube" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/3_gzaiwk.png" />][youtube] https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g  
 
-<img align="left" alt="website | Website" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044296/social-icons/7_huz2ns.png" /> https://coderwhodreams.hashnode.dev/  
+[<img align="left" alt="website | Website" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044296/social-icons/7_huz2ns.png" />][website] https://coderwhodreams.hashnode.dev/  
 
-<img align="left" alt="medium | Medium" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/4_vuxftg.png" />  https://medium.com/@smhatre59
+[<img align="left" alt="medium | Medium" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/4_vuxftg.png" />][medium]  https://medium.com/@smhatre59
 
 ### Languages and Tools:
 
@@ -64,3 +66,7 @@
 
 [twitter]: https://twitter.com/saurabhnative
 [linkedIn]: https://www.linkedin.com/in/saurabh-mhatre
+[github]: https://github.com/smhatre59
+[youtube]: https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g 
+[website]: https://coderwhodreams.hashnode.dev/
+[medium]: https://medium.com/@smhatre59
