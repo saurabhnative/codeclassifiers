@@ -10,19 +10,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043941/social-icons/1_it9zbv.png" />][instagram]  https://www.instagram.com/coder_who_dreams/
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043941/social-icons/1_it9zbv.png" />][instagram]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/5_vdg8xg.png" />][twitter]
+[<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044080/social-icons/6_elpkjr.png" />][linkedIn]
+[<img align="left" alt="github | Github" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/2_rxsecc.png" />][github]
+[<img align="left" alt="youtube | Youtube" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/3_gzaiwk.png" />][youtube]
+[<img align="left" alt="website | Website" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044296/social-icons/7_huz2ns.png" />][website]
+[<img align="left" alt="medium | Medium" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/4_vuxftg.png" />][medium]  
 
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/5_vdg8xg.png" />][twitter]  https://twitter.com/saurabhnative  
-
-[<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044080/social-icons/6_elpkjr.png" />][linkedIn] https://www.linkedin.com/in/saurabh-mhatre  
-
-[<img align="left" alt="github | Github" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/2_rxsecc.png" />][github] https://github.com/smhatre59  
-
-[<img align="left" alt="youtube | Youtube" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/3_gzaiwk.png" />][youtube] https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g  
-
-[<img align="left" alt="website | Website" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044296/social-icons/7_huz2ns.png" />][website] https://coderwhodreams.hashnode.dev/  
-
-[<img align="left" alt="medium | Medium" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/4_vuxftg.png" />][medium]  https://medium.com/@smhatre59
+<br></br>
 
 ### Languages and Tools:
 
