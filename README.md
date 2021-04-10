@@ -40,6 +40,11 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Important points for optimising websites using webpack](https://coderwhodreams.hashnode.dev/important-points-for-optimising-websites-using-webpack)
+- [Learn about content editable CSS attribute and how it is used to make editors for blogging websites in this post.](https://coderwhodreams.hashnode.dev/learn-about-content-editable-css-attribute-and-how-it-is-used-to-make-editors-for-blogging-websites-in-this-post)
+- [Learn how to build Christmas greeting using CSS Animations](https://coderwhodreams.hashnode.dev/learn-how-to-build-christmas-greeting-using-css-animations)
+- [Contribute to Hacktoberfest by building 15 mini web apps](https://coderwhodreams.hashnode.dev/contribute-to-hacktoberfest-by-building-15-mini-web-apps)
+- [Things I learnt while learning UI design as a frontend developer](https://coderwhodreams.hashnode.dev/things-i-learnt-while-learning-ui-design-as-a-frontend-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
