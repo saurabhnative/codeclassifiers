@@ -40,6 +40,7 @@
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Important points for optimising websites using webpack](https://coderwhodreams.hashnode.dev/important-points-for-optimising-websites-using-webpack)
 - [Learn about content editable CSS attribute and how it is used to make editors for blogging websites in this post.](https://coderwhodreams.hashnode.dev/learn-about-content-editable-css-attribute-and-how-it-is-used-to-make-editors-for-blogging-websites-in-this-post)
 - [Learn how to build Christmas greeting using CSS Animations](https://coderwhodreams.hashnode.dev/learn-how-to-build-christmas-greeting-using-css-animations)
@@ -51,4 +52,4 @@
 
 ### Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codeclassifiers)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codeclassifiers)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
