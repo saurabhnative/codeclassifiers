@@ -26,13 +26,23 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044727/social-icons/12_mbqvko.png" />
 
 <br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
 
 ### 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+---
 
 ### Stats
 
