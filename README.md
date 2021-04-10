@@ -33,6 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MERN Stack Interview Questions - Part 1](https://www.youtube.com/watch?v=Y6AoDw93bXk)
+- [Learn about content editable CSS attribute by making a basic text editor](https://www.youtube.com/watch?v=qGYQdOSmiQk)
+- [Demo of quiz made using typescript and styled components in react from freecodecamp tutorial #shorts](https://www.youtube.com/watch?v=esylHmoyKcI)
+- [Understanding CSS box sizing property](https://www.youtube.com/watch?v=2JB1NlJ5YUc)
+- [Learn how to build Quotes UI and tooltips using CSS before and after selectors](https://www.youtube.com/watch?v=5k2kDp0fbSI)
 <!-- YOUTUBE:END -->
 
 ---
