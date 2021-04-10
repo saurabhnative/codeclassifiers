@@ -8,19 +8,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/5_vdg8xg.png" />][twitter] Twitter: https://twitter.com/saurabhnative  
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/5_vdg8xg.png" />][twitter]  https://twitter.com/saurabhnative  
 
-[<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044080/social-icons/6_elpkjr.png" />][linkedIn]LinkedIn: https://www.linkedin.com/in/saurabh-mhatre  
+[<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044080/social-icons/6_elpkjr.png" />][linkedIn] https://www.linkedin.com/in/saurabh-mhatre  
 
-<img align="left" alt="github | Github" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/2_rxsecc.png" />Github: https://github.com/smhatre59  
+<img align="left" alt="github | Github" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/2_rxsecc.png" />  https://github.com/smhatre59  
 
-<img align="left" alt="youtube | Youtube" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/3_gzaiwk.png" />Youtube: https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g  
+<img align="left" alt="youtube | Youtube" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/3_gzaiwk.png" />  https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g  
 
-<img align="left" alt="website | Website" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044296/social-icons/7_huz2ns.png" />Website: https://coderwhodreams.hashnode.dev/  
+<img align="left" alt="website | Website" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044296/social-icons/7_huz2ns.png" /> https://coderwhodreams.hashnode.dev/  
 
-<img align="left" alt="medium | Medium" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/4_vuxftg.png" /> Medium: https://medium.com/@smhatre59
-
-<br><br/>
+<img align="left" alt="medium | Medium" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/4_vuxftg.png" />  https://medium.com/@smhatre59
 
 ### Languages and Tools:
 
