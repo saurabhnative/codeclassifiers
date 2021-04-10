@@ -10,6 +10,8 @@
 
 ### Connect with me:
 
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043941/social-icons/1_it9zbv.png" />][instagram]  https://www.instagram.com/coder_who_dreams/
+
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618043940/social-icons/5_vdg8xg.png" />][twitter]  https://twitter.com/saurabhnative  
 
 [<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://res.cloudinary.com/dk22rcdch/image/upload/v1618044080/social-icons/6_elpkjr.png" />][linkedIn] https://www.linkedin.com/in/saurabh-mhatre  
@@ -64,6 +66,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeclassifiers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[instagram]: https://www.instagram.com/coder_who_dreams/
 [twitter]: https://twitter.com/saurabhnative
 [linkedIn]: https://www.linkedin.com/in/saurabh-mhatre
 [github]: https://github.com/smhatre59
