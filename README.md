@@ -4,7 +4,7 @@
 
 - I am Saurabh Mhatre and and have worked in IT industry since 2015.
 - I have experience in technologies like React, Node.js and ReactNative. I have been teaching this technologies online to students since last few years.
-- I initially created this account for adding repositories related to blog articles and at present I use this account for updating learning resources for online lectures. You can join official slack workspace for learning frontend development or for asking technical doubts here: [OpenFrontendAcademy](https://join.slack.com/t/openfrontendacademy/shared_invite/zt-k33mgirb-QVZlozwNl7WH~~zHfKeGSQ)
+- I initially created this account for adding repositories related to blog articles and at present I use this account for updating learning resources for online lectures. You can join official slack workspace for learning frontend development or for asking technical doubts here: [OpenFrontendAcademy](https://join.slack.com/t/openfullstackacademy/shared_invite/zt-pi7r0wlf-RI5GLE8H98D_WB0x~MdTng)
 
 ---
 
