@@ -36,11 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Not selector in CSS](https://www.youtube.com/watch?v=dLqjDXn75KM)
+- [Introduction to Quasar Framework #shorts](https://www.youtube.com/watch?v=nwtSwDfxkck)
+- [How to use child selectors in SCSS?](https://www.youtube.com/watch?v=fI3NEOSc0QQ)
+- [What is call stack in JavaScript? - MERN stack interview series part 4](https://www.youtube.com/watch?v=rWIqHD7LpmM)
 - [MERN stack interview questions part 3 - Explain react.js component lifecycle](https://www.youtube.com/watch?v=tewdTpOQetQ)
-- [MERN Stack Interview questions part 2- What is virtual DOM in react.js?](https://www.youtube.com/watch?v=yqGZMLLZuhU)
-- [MERN Stack Interview Questions - Part 1](https://www.youtube.com/watch?v=Y6AoDw93bXk)
-- [Learn about content editable CSS attribute by making a basic text editor](https://www.youtube.com/watch?v=qGYQdOSmiQk)
-- [Demo of quiz made using typescript and styled components in react from freecodecamp tutorial #shorts](https://www.youtube.com/watch?v=esylHmoyKcI)
 <!-- YOUTUBE:END -->
 
 ---
