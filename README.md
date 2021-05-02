@@ -36,11 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solving LeetCode array problems with Javascript - Part 1](https://www.youtube.com/watch?v=KdEsGWXUQ4E)
+- [What is libuv in Node.js? - MERN Stack interview series Part 5](https://www.youtube.com/watch?v=h_CYpLfMLQA)
 - [Not selector in CSS](https://www.youtube.com/watch?v=dLqjDXn75KM)
 - [Introduction to Quasar Framework #shorts](https://www.youtube.com/watch?v=nwtSwDfxkck)
 - [How to use child selectors in SCSS?](https://www.youtube.com/watch?v=fI3NEOSc0QQ)
-- [What is call stack in JavaScript? - MERN stack interview series part 4](https://www.youtube.com/watch?v=rWIqHD7LpmM)
-- [MERN stack interview questions part 3 - Explain react.js component lifecycle](https://www.youtube.com/watch?v=tewdTpOQetQ)
 <!-- YOUTUBE:END -->
 
 ---
