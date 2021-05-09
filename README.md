@@ -1,10 +1,10 @@
-## Hi there 👋
+### Hi there, I am [Saurabh Mhatre](https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g) 👋
 
-### A brief Intro 🎩
+## I am Frontend Developer, Mentor, Open Source Contributor and Content Creator
 
-- I am Saurabh Mhatre and and have worked in IT industry since 2015.
-- I have experience in technologies like React, Node.js and ReactNative. I have been teaching this technologies online to students since last few years.
-- I initially created this account for adding repositories related to blog articles and at present I use this account for updating learning resources for online lectures. You can join official slack workspace for learning frontend development or for asking technical doubts here: [OpenFrontendAcademy](https://join.slack.com/t/openfullstackacademy/shared_invite/zt-pi7r0wlf-RI5GLE8H98D_WB0x~MdTng)
+- I am currently working on [LeetCode Problems Series](https://www.youtube.com/playlist?list=PLZ1FmiaTE30UMt-EZBzW8xIUYuhLYUwBL) on Youtube.
+- I have experience in technologies like React, Node.js and ReactNative.
+- I initially created this account for adding repositories related to blog articles and at present use it for updating learning resources for online lectures. You can join official slack workspace for learning frontend development or for asking technical doubts here: [OpenFrontendAcademy](https://join.slack.com/t/openfullstackacademy/shared_invite/zt-pi7r0wlf-RI5GLE8H98D_WB0x~MdTng)
 
 ---
 
