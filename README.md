@@ -36,11 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build a stories feed app using React.js - Part 1](https://www.youtube.com/watch?v=59SW6vZ2L2Y)
+- [Solving Leetcode Array Problems using Javascript - Part 3](https://www.youtube.com/watch?v=up5vvOnJPUY)
+- [LeetCode array problem solutions - part 2](https://www.youtube.com/watch?v=5nuxlb49eVY)
 - [Solving LeetCode array problems with Javascript - Part 1](https://www.youtube.com/watch?v=KdEsGWXUQ4E)
 - [What is libuv in Node.js? - MERN Stack interview series Part 5](https://www.youtube.com/watch?v=h_CYpLfMLQA)
-- [Not selector in CSS](https://www.youtube.com/watch?v=dLqjDXn75KM)
-- [Introduction to Quasar Framework #shorts](https://www.youtube.com/watch?v=nwtSwDfxkck)
-- [How to use child selectors in SCSS?](https://www.youtube.com/watch?v=fI3NEOSc0QQ)
 <!-- YOUTUBE:END -->
 
 ---
