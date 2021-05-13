@@ -8,6 +8,7 @@
 - Fun fact: I also create web based games in spare time. Here's the two which I made recently
   - Rock, paper, scissors(Lizard, spock 🖖) -  [Demo](https://rockpaperscisor.netlify.app/) | [Github](https://github.com/codeclassifiers/rockpaperscissors)
   - Friends Or Foes - [Demo](https://friends-or-foes.netlify.app/) | [Github](https://github.com/codeclassifiers/FriendsOrFoesGame)
+  - Quiz - [Demo](https://react-typescript-quiz-freecodecamp.netlify.app/) | [Github](https://github.com/codeclassifiers/react-quiz-2021) 
 
 ---
 
