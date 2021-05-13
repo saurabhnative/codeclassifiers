@@ -1,6 +1,6 @@
 ### Hi there, I am [Saurabh Mhatre](https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g) 👋
 
-## I am Frontend Developer, Mentor, Open Source Contributor and Content Creator
+## I am a Frontend Developer, Mentor, Open Source Contributor and Content Creator
 
 - I am currently working on [LeetCode Problems Series](https://www.youtube.com/playlist?list=PLZ1FmiaTE30UMt-EZBzW8xIUYuhLYUwBL) on Youtube.
 - I have experience in technologies like React, Node.js and ReactNative.
