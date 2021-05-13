@@ -6,7 +6,7 @@
 - I have experience in technologies like React, Node.js and ReactNative.
 - I initially created this account for adding repositories related to blog articles and at present use it for updating learning resources for online lectures. You can join official slack workspace for learning frontend development or for asking technical doubts here: [OpenFrontendAcademy](https://join.slack.com/t/openfullstackacademy/shared_invite/zt-pi7r0wlf-RI5GLE8H98D_WB0x~MdTng)
 - Fun fact: I also create web based games in spare time. Here's the two which I made recently
-  - Rock, paper, scissors(Lizard, spock) -  [Demo](https://rockpaperscisor.netlify.app/) | [Github](https://github.com/codeclassifiers/rockpaperscissors)
+  - Rock, paper, scissors(Lizard, spock 🖖) -  [Demo](https://rockpaperscisor.netlify.app/) | [Github](https://github.com/codeclassifiers/rockpaperscissors)
   - Friends Or Foes - [Demo](https://friends-or-foes.netlify.app/) | [Github](https://github.com/codeclassifiers/FriendsOrFoesGame)
 
 ---
