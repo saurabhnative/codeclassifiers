@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Build a stories feed app using React.js - Part 1](https://www.youtube.com/watch?v=59SW6vZ2L2Y)
-- [Solving Leetcode Array Problems using Javascript - Part 3](https://www.youtube.com/watch?v=up5vvOnJPUY)
-- [LeetCode array problem solutions - part 2](https://www.youtube.com/watch?v=5nuxlb49eVY)
-- [Solving LeetCode array problems with Javascript - Part 1](https://www.youtube.com/watch?v=KdEsGWXUQ4E)
-- [What is libuv in Node.js? - MERN Stack interview series Part 5](https://www.youtube.com/watch?v=h_CYpLfMLQA)
+- [Unboxing TPLink Archer C6(AC1200) Wifi router](https://www.youtube.com/watch?v=ahi9EtyEvjg)
+- [Christmas greeting card preview #shorts](https://www.youtube.com/watch?v=99499Idwk88)
+- [Stories Feed App Demo #shorts](https://www.youtube.com/watch?v=5gO0br8oO7U)
+- [Build a stories feed app using React.js - Part 3](https://www.youtube.com/watch?v=qpf7K5G2Eig)
+- [Build a stories feed app using React.js - Part 2](https://www.youtube.com/watch?v=KttpkkPIQUw)
 <!-- YOUTUBE:END -->
 
 ---
